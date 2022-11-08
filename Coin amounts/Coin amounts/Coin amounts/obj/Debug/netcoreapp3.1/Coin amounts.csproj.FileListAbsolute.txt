@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Coin amounts\Coin amounts\Coin amounts\bin\Debug\netcoreapp3.1\Coin amounts.exe
+C:\Users\User\Desktop\Coin amounts\Coin amounts\Coin amounts\bin\Debug\netcoreapp3.1\Coin amounts.deps.json
+C:\Users\User\Desktop\Coin amounts\Coin amounts\Coin amounts\bin\Debug\netcoreapp3.1\Coin amounts.runtimeconfig.json
+C:\Users\User\Desktop\Coin amounts\Coin amounts\Coin amounts\bin\Debug\netcoreapp3.1\Coin amounts.runtimeconfig.dev.json
+C:\Users\User\Desktop\Coin amounts\Coin amounts\Coin amounts\bin\Debug\netcoreapp3.1\Coin amounts.dll
+C:\Users\User\Desktop\Coin amounts\Coin amounts\Coin amounts\bin\Debug\netcoreapp3.1\Coin amounts.pdb
+C:\Users\User\Desktop\Coin amounts\Coin amounts\Coin amounts\obj\Debug\netcoreapp3.1\Coin amounts.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Coin amounts\Coin amounts\Coin amounts\obj\Debug\netcoreapp3.1\Coin amounts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Coin amounts\Coin amounts\Coin amounts\obj\Debug\netcoreapp3.1\Coin amounts.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Coin amounts\Coin amounts\Coin amounts\obj\Debug\netcoreapp3.1\Coin amounts.AssemblyInfo.cs
+C:\Users\User\Desktop\Coin amounts\Coin amounts\Coin amounts\obj\Debug\netcoreapp3.1\Coin amounts.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Coin amounts\Coin amounts\Coin amounts\obj\Debug\netcoreapp3.1\Coin amounts.dll
+C:\Users\User\Desktop\Coin amounts\Coin amounts\Coin amounts\obj\Debug\netcoreapp3.1\Coin amounts.pdb
+C:\Users\User\Desktop\Coin amounts\Coin amounts\Coin amounts\obj\Debug\netcoreapp3.1\Coin amounts.genruntimeconfig.cache
